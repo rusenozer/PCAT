@@ -1,0 +1,27 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "PCAT photo app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rusenozer/PCAT.git"
+  },
+  "keywords": [
+    "photo",
+    "app",
+    "camera"
+  ],
+  "author": "Ruşen Özer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rusenozer/PCAT/issues"
+  },
+  "homepage": "https://github.com/rusenozer/PCAT#readme",
+  "devDependencies": {
+    "prettier": "2.5.1"
+  }
+}
